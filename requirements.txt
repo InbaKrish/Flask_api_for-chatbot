@@ -1,0 +1,5 @@
+Flask==1.1.2
+Flask-Cors==3.0.9
+requests==2.24.0
+secure-smtplib==0.1.1
+gunicorn
